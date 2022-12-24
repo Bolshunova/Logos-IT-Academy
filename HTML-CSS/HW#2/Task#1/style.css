@@ -1,0 +1,19 @@
+body {
+    background-color: rgba(249, 220, 126, 0.445);
+}
+.text {
+    color: rgb(68, 83, 95);
+    font-size: 15px;
+    font-family: 'Arial Narrow', sans-serif;
+    background-color: rgba(132, 158, 180, 0.2);
+    border: 1px solid #c2dcf5;
+    box-shadow: 1px 10px 20px 1px rgba(132, 158, 180, 0.5);
+    text-align: right;
+}
+img {
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 25px;
+    border: double 1px solid #123456;
+}
