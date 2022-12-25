@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.main-box {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+.box {
+    width: 250px;
+    height: 100px;
+    margin: 0 auto 20px;
+}
+.dotted {
+    background-color: #addcc9;
+    border: 2px dotted  #874f8c;
+    box-sizing: border-box;
+
+}
+.dashed {
+    background-color: #dbebc2;
+    border: 2px dashed  #8c4f53;
+    box-sizing: border-box;
+
+}
+.solid {
+    background-color: #fdd2b5;
+    border: 15px solid #b96c6f;
+}
+.line {
+    background-color: #f7a8a6;
+    border-left: 10px solid #e6f5b0;
+    box-sizing: border-box;
+
+}
