@@ -6,22 +6,23 @@
 .header {
     background-color: #F3F3F3;
     width: 1500px;
-    height: 65px;
+    height: 67px;
     font-family:'Roboto-Regular';
-}
-.logo,
-.block-menu {
-    display: inline-block;
-    height: 65px;
+    box-shadow: 7px 7px 10px #9b9b9b;
 }
 .logo {
     width: 1040px;
     padding-left: 20px;
     font-size: 35px;
-    line-height: 65px;  
+    height: 65px;
+    line-height: 65px; 
+    display: inline-block;
+    vertical-align: top;
 }
 .block-menu  {
-    width: 440px;
+    width: 460px;
+    height: 65px;
+    display: inline-block;
     font-size: 17px;
     margin-left: -4px;
 }
@@ -30,7 +31,7 @@
     line-height: 65px;
 }
 .menu-item {
-    width: 110px;
+    width: 115px;
     display: inline-block;
     border: 1px solid rgb(255, 255, 255);
     text-align: center;
